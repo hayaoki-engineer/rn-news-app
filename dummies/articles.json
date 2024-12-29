@@ -1,0 +1,62 @@
+[
+  {
+    "author": "React News",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "urlToImage": "https://picsum.photos/id/1/300/300",
+    "publishedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "author": "React News",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "urlToImage": "https://picsum.photos/id/2/300/300",
+    "publishedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "author": "React News",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "urlToImage": "https://picsum.photos/id/3/300/300",
+    "publishedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "author": "React News",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "urlToImage": "https://picsum.photos/id/4/300/300",
+    "publishedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "author": "React News",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "urlToImage": "https://picsum.photos/id/5/300/300",
+    "publishedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "author": "React News",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "urlToImage": "https://picsum.photos/id/7/300/300",
+    "publishedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "author": "React News",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "urlToImage": "https://picsum.photos/id/7/300/300",
+    "publishedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "author": "React News",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "urlToImage": "https://picsum.photos/id/7/300/300",
+    "publishedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "author": "React News",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "urlToImage": "https://picsum.photos/id/7/300/300",
+    "publishedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "author": "React News",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "urlToImage": "https://picsum.photos/id/7/300/300",
+    "publishedAt": "2024-01-01T00:00:00Z"
+  }
+]
